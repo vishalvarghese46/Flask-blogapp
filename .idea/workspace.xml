@@ -4,10 +4,6 @@
     <list default="true" id="81b5c85f-11ee-434a-8fb4-7b5dc385e679" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Flask Main" />
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -235,7 +231,7 @@
       <workItem from="1576507930368" duration="8683000" />
       <workItem from="1576766177208" duration="4212000" />
       <workItem from="1577091941634" duration="22000" />
-      <workItem from="1577092056137" duration="8480000" />
+      <workItem from="1577092056137" duration="15207000" />
     </task>
     <servers />
   </component>
